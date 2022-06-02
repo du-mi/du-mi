@@ -1,6 +1,9 @@
 # ...
 
-- 👋 Me chamo @du-mi
+-  Me chamo Eduarda
+-  Sou estudante
+   
+   Ensino Médio
 
 
 
